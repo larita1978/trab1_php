@@ -12,7 +12,7 @@
 			<div></div>
 			<div id="opcoes">
 				<div><a class="menu" href="index.html">Home</a></div>
-				<div><a class="menu" href="catalogo.php">Notícias</a></div>
+				<div><a class="menu" href="noticias.php">Notícias</a></div>
 			</div>
 		</div>
 		
