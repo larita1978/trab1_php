@@ -1,0 +1,50 @@
+#opcoes{
+	border: none;
+	padding: 5%;
+}
+
+.menu{
+	float: left;
+	padding: 0%;
+	margin-left: 10%;
+	color: black;
+	
+}
+
+a:hover, a:link, a:visited{
+	text-decoration: none;
+}
+
+/* aqui começa as configurações de estilo da pagina Home */
+
+#titulopage{
+    font-family: 'Permanent Marker', cursive;
+	text-align: center;
+	font-size: 50px;
+}
+
+#cadastro_noticia{
+    margin-left: 40%;
+}
+
+textarea{
+	width: 20%;
+	right: 60%;
+}
+button{
+    padding-left: 5%;
+	padding-right: 5%; 
+}
+
+
+/* aqui começa as configurações de estilo da pagina noticia */
+
+#lista_noticias{
+    padding: 5%;
+}
+
+/*aqui começa as configurações de estilo da pagina acesso */
+
+#acesso{
+    margin-left: 40%;    
+}
